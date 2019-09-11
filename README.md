@@ -9,16 +9,16 @@
 
 ### 登录界面
 
-![1568174581262](C:\Users\Smile\Desktop\TyporaImages\1568174581262.png)
+![1568174581262](https://github.com/abigbigsmile/ssms/tree/master/TyporaImages/1568174581262.png)
 
 ### 学生成绩管理界面
 
-![1568174698143](C:\Users\Smile\Desktop\TyporaImages\1568174698143.png)
+![1568174698143](https://github.com/abigbigsmile/ssms/tree/master/TyporaImages/1568174698143.png)
 
 ### 教师管理界面
 
-![1568174795414](C:\Users\Smile\Desktop\TyporaImages\1568174795414.png)
+![1568174795414](https://github.com/abigbigsmile/ssms/tree/master/TyporaImages/1568174795414.png)
 
 ### 管理员登录界面
 
-![1568174889179](C:\Users\Smile\Desktop\TyporaImages\1568174889179.png)
+![1568174889179](https://github.com/abigbigsmile/ssms/tree/master/TyporaImages/1568174889179.png)
